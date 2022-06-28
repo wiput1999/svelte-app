@@ -1,5 +1,4 @@
 {
-  "pluginSearchDirs": ["."],
   "semi": false,
   "singleQuote": true,
   "svelteSortOrder": "options-scripts-markup-styles"
